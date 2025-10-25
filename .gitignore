@@ -47,4 +47,3 @@ next-env.d.ts
 
 #DB関連
 password.txt
-drizzle-dev.config.ts
